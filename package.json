@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Andres-Dead/TBots#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "telegraf": "3.32"
   }
 }
